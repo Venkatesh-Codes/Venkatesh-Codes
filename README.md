@@ -47,7 +47,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn profile link)
+- LinkedIn: https://www.linkedin.com/in/venkateswarlu-m
 - Email: venkateswarlu.mee@gmail.com
 
 ---
