@@ -36,29 +36,6 @@
 
 ---
 
-## 📂 Real-Time Projects
-
-### 📈 Sales Performance Analysis
-- Analyzed sales data to identify revenue trends and top-performing products
-- Built interactive dashboards to track KPIs
-- Provided insights to improve regional sales performance
-
-### 👥 Customer Segmentation
-- Performed clustering analysis using Python
-- Identified customer groups based on purchasing behavior
-- Recommended targeted marketing strategies
-
-### 🗄️ SQL Business Analysis
-- Wrote complex queries to analyze customer and sales data
-- Generated insights such as top customers, monthly revenue, and growth trends
-
-### 📊 Business Intelligence Dashboards
-- Designed Power BI and Tableau dashboards
-- Visualized KPIs, trends, and performance metrics
-- Created reports for better decision-making
-
----
-
 ## 📊 What I Bring
 
 ✔ Strong analytical and problem-solving skills  
@@ -71,7 +48,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: (Add your LinkedIn profile link)
-- Email: (Add your email address)
+- Email: venkateswarlu.mee@gmail.com
 
 ---
 
