@@ -1,55 +1,64 @@
-# Hi 👋 I'm Venkatesh
+# Hi, I'm Venkatesh 👋
 
-📊 Data Analyst | SQL | Python | Excel | Power BI | Tableau  
-💡 Transforming raw data into meaningful business insights  
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Trained Data Analyst with hands-on experience in real-time projects  
-- 📊 Strong in data cleaning, transformation, and visualization  
-- 📈 Passionate about solving business problems using data-driven decisions  
-- 🧠 Skilled in extracting insights from complex datasets  
-- 🎯 Seeking an entry-level Data Analyst role to contribute and grow professionally  
+📊 Data Analyst Trainee | SQL | Python | Power BI | Excel  
+🎯 Aspiring Data Analyst targeting MNC roles  
+💡 Passionate about turning data into actionable business insights  
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### 📌 Programming & Query Languages
-- SQL (Joins, Subqueries, CTEs, Window Functions, Aggregations)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+I am a **Data Analyst Trainee** with hands-on experience in **SQL, Python, Excel, and Power BI**. I am focused on developing **end-to-end data analytics skills** to support **data-driven business decisions**.
 
-### 📊 Data Visualization Tools
-- Power BI (Interactive Dashboards, DAX basics, KPI Metrics)
-- Tableau (Dashboards, Storytelling with Data)
-- Excel (Pivot Tables, VLOOKUP/XLOOKUP, Conditional Formatting, Charts)
-
-### 🗄️ Database
-- MySQL
-
-### ⚙️ Tools & Platforms
-- Jupyter Notebook
-- Git & GitHub
-- MS Excel
+- ✅ Advanced SQL (Joins, CTEs, Window Functions, Aggregations)  
+- ✅ Data Cleaning, Validation & Transformation  
+- ✅ Exploratory Data Analysis (EDA) using Python  
+- ✅ Interactive Dashboard Development in Power BI  
+- ✅ Understanding KPIs, Metrics & Business Performance  
 
 ---
 
-## 📊 What I Bring
+## 🛠 Technical Skills
 
-✔ Strong analytical and problem-solving skills  
-✔ Ability to convert data into actionable business insights  
-✔ Clean, structured, and well-documented projects  
-✔ Continuous learner with a growth mindset  
+**Database & SQL**  
+- MySQL / PostgreSQL  
+- Joins, Subqueries, CTEs, Window Functions  
+- Query Optimization & Performance Tuning  
+
+**Programming & Analysis**  
+- Python (Pandas, NumPy, Matplotlib)  
+- Data Cleaning & Feature Engineering  
+- Exploratory Data Analysis (EDA)  
+
+**Business Intelligence & Visualization**  
+- Power BI (DAX, KPI Dashboards, Data Modeling)  
+- Microsoft Excel (Pivot Tables, Power Query, Lookup Functions)  
+- Data Visualization & Reporting  
+
+**Core Competencies**  
+- Business Performance Analysis  
+- KPI & Dashboard Reporting  
+- Data-Driven Decision Making  
+- Customer Segmentation & Retention Analysis  
+- Trend & Revenue Analytics  
+
+---
+
+## 📊 Interests
+
+- Business Intelligence & Analytics  
+- SQL Development & Optimization  
+- Data Cleaning & Transformation  
+- KPI Tracking & Reporting  
+- Enterprise Data Analysis  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/venkateswarlu-m
-- Email: venkateswarlu.mee@gmail.com
+- LinkedIn: https://www.linkedin.com/in/venkateswarlu-m/  
+- Email: venkateswarlu.mee@gmail.com  
 
 ---
 
-⭐ "Data is not just numbers — it tells a story."
+💡 “Learning today, analyzing business tomorrow.”
