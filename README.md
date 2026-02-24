@@ -21,7 +21,7 @@ I am a **Data Analyst Trainee** with hands-on experience in **SQL, Python, Excel
 ## 🛠 Technical Skills
 
 **Database & SQL**  
-- MySQL / PostgreSQL  
+- MySQL  
 - Joins, Subqueries, CTEs, Window Functions  
 - Query Optimization & Performance Tuning  
 
